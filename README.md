@@ -1,1 +1,2 @@
-# generalization_of_nlp_in_clinical_contexts
+# Code for the paper titled Generalization of Finetuned Transformer Language Models to New Clinical Contexts
+Submitted into JAMIA
